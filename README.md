@@ -95,6 +95,9 @@ This capstone project analyzes global developer technology preferences, demograp
 - **Strategic Insight Development**
 - **Multi-Platform Visualization Tools**
 
+- Snippet from dashboard:
+<img src="./dashboards/dshb1.png">.
+
 ### 📧 Contact
 **Kon Mez** - [kmezin@yahoo.com]
 **LinkedIn** - [www.linkedin.com/in/kon-mez-8425ab2b3](https://linkedin.com/in/kon-mez-8425ab2b3)
