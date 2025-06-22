@@ -103,5 +103,6 @@ This capstone project analyzes global developer technology preferences, demograp
 
 ---
 *This project was completed as part of the IBM Data Analyst Professional Certificate program.*
+
 completed:
 https://coursera.org/share/26d2545d5cb3a95e143150582a7872e7
