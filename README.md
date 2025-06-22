@@ -1,6 +1,8 @@
 # IBM Data Analyst Capstone Project
 ## Developer Technology Preferences and Demographics Analysis
 
+https://coursera.org/share/26d2545d5cb3a95e143150582a7872e7
+
 
 ![IBM Certified](https://img.shields.io/badge/IBM-Data%20Analyst%20Certificate-blue)
 ![Status](https://img.shields.io/badge/Status-Complete-green)
@@ -95,11 +97,10 @@ This capstone project analyzes global developer technology preferences, demograp
 - **Multi-Platform Visualization Tools**
 
 ### 📧 Contact
-**Your Name** - [your.email@example.com](mailto:your.email@example.com)
-
+**Kon Mez** - [kmezin@yahoo.com]
 **LinkedIn** - [www.linkedin.com/in/kon-mez-8425ab2b3](https://linkedin.com/in/kon-mez-8425ab2b3)
 
-**Project Link** - [https://github.com/yourusername/IBM-Data-Analyst-Capstone](https://github.com/yourusername/IBM-Data-Analyst-Capstone)
+**Project Link** - [https://github.com/konmez/IBM_data_analyst_capstone](https://github.com/konmez/IBM_data_analyst_capstone)
 
 ---
 *This project was completed as part of the IBM Data Analyst Professional Certificate program.*
