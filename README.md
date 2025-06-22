@@ -1,8 +1,6 @@
 # IBM Data Analyst Capstone Project
 ## Developer Technology Preferences and Demographics Analysis
 
-completed:
-https://coursera.org/share/26d2545d5cb3a95e143150582a7872e7
 
 
 ![IBM Certified](https://img.shields.io/badge/IBM-Data%20Analyst%20Certificate-blue)
@@ -105,3 +103,5 @@ This capstone project analyzes global developer technology preferences, demograp
 
 ---
 *This project was completed as part of the IBM Data Analyst Professional Certificate program.*
+completed:
+https://coursera.org/share/26d2545d5cb3a95e143150582a7872e7
